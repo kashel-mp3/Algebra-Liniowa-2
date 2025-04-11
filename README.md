@@ -216,19 +216,19 @@ $$A = \begin{pmatrix}
 8 & -6 & 0 \\\ 
 9 & -7 & 0 \\\ 
 6 & -4 & 0 
-\end{pmatrix}$$
+\end{pmatrix}$$ 
+\ [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_4_a_b.jpg)
 
 $$B = \begin{pmatrix} 
 2 & -1 & 1 \\\ 
 6 & -3 & 4 \\\ 
 1 & -1 & 2 
 \end{pmatrix}$$
+\ [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_4_a_b.jpg)
 
-$$C = \begin{pmatrix} 
-2 & -1 & 1 \\\ 
-1 & 1 & 1 \\\ 
-0 & 1 & 1 
-\end{pmatrix}$$
+$$C = \begin{pmatrix} 2 & -1 & 1 \\\ 1 & 1 & 1 \\\ 0 & 1 & 1  \end{pmatrix}$$ 
+\ 
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_4_c.jpg)
 
 ### Zadanie 3.5
 Niech $\lambda \in K$ oraz
@@ -243,7 +243,8 @@ $$A = \begin{pmatrix}
 0 & 0 & 0 & \ldots & 0 & 0 & \lambda 
 \end{pmatrix} \in M_n(K)$$
 
-Wykaż, że $\lambda$ jest wartością własną macierzy $A$ oraz oblicz jej krotność algebraiczną i geometryczną.
+Wykaż, że $\lambda$ jest wartością własną macierzy $A$ oraz oblicz jej krotność algebraiczną i geometryczną. \
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_5.jpg)
 
 ### Zadanie 3.6
 Wyznaczyć wartości własne i wektory własne endomorfizmu
@@ -251,7 +252,8 @@ $\phi : \mathbb{R}[x]_2 \to \mathbb{R}[x]_2$,
 danego wzorem:
 $\phi(a_2x^2 + a_1x + a_0) = 2a_2x^2 + (a_2 + 5a_1 − 3a_0)x − 3a_1 + 5a_0$.
 
-Czy macierz tego przekształcenia jest diagonalizowalna (czy da się sprowadzić do postaci diagonalnej)?
+Czy macierz tego przekształcenia jest diagonalizowalna (czy da się sprowadzić do postaci diagonalnej)? \
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_6.jpg)
 
 ### Zadanie 3.7 (zad. 321, JR). 
 Zbadać, czy macierz $A = \begin{bmatrix} 2 & 4 \\\ 1 & 4 \end{bmatrix} \in M_2(K)$ jest diagonalizowalna, jeśli ciało $K$ jest następujące:
@@ -260,14 +262,18 @@ Zbadać, czy macierz $A = \begin{bmatrix} 2 & 4 \\\ 1 & 4 \end{bmatrix} \in M_2(
 (c) $\mathbb{C}$;
 (d) $\mathbb{Z}/5$;
 (e) $\mathbb{Z}/7$;
-(f) $\mathbb{Z}/11$.
+(f) $\mathbb{Z}/11$. \
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_7.jpg)
 
 ### Zadanie 3.8 (zad. 322, JR). 
 Znaleźć macierz diagonalną $D$ podobną do danej macierzy $A \in M_3(\mathbb{R})$, jeśli taka macierz $D$ istnieje. Znaleźć też wtedy macierz odwracalną $S$ taką, że $D = S^{-1}AS$, gdzie macierz $A$ jest postaci:
 
-(a) $$\begin{bmatrix} 4 & -2 & 1 \\\ 3 & -1 & 1 \\\ 6 & -6 & 4 \end{bmatrix}$$;
+(a) $$\begin{bmatrix} 4 & -2 & 1 \\\ 3 & -1 & 1 \\\ 6 & -6 & 4 \end{bmatrix}$$; \ 
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_8_a.jpg)
 
 (b) $\begin{bmatrix} 4 & -4 & 8 \\\ 4 & -4 & 8 \\\ 1 & -1 & 2 \end{bmatrix}$;
+[rozwiązanie pt1](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_8_b.jpg)
+[ pt2](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_8_b_2.jpg)
 
 (c) $\begin{bmatrix} 1 & -4 & 1 \\\ 0 & -3 & 1 \\\ 0 & -6 & 2 \end{bmatrix}$;
 
@@ -297,7 +303,8 @@ Udowodnij, że przestrzeń $W = L(w_1, \ldots, w_n)$ jest $T$-niezmiennicza wted
 ### Zadanie 3.11. 
 Sprawdzić, czy $W$ jest $T$-niezmienniczą podprzestrzenią w $V$:
 
-(a) $V = \mathbb{R}^3$, $W = \{(t, -t, t) : t \in \mathbb{R}\}$, $T(x, y, z) = (x + 3y + 3z, -3x - 5y - 3z, 3x + 3y + z)$;
+(a) $V = \mathbb{R}^3$, $W = \{(t, -t, t) : t \in \mathbb{R}\}$, $T(x, y, z) = (x + 3y + 3z, -3x - 5y - 3z, 3x + 3y + z)$; \
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_11_a.jpg)
 
 (b) $V = \mathbb{R}^3$, $W = L((1, 0, -1), (1, -1, 1))$, $T(x, y, z) = (x - y - z, 2x - y, 3z)$;
 
