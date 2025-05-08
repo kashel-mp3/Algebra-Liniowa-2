@@ -337,16 +337,22 @@ $T(x, y, z) = (x - 4y + z, -4x + y + z, 4x + 4y + 4z)$.
 
 ### Zadanie 4.1 
 Które z następujących przekształceń są formami dwuliniowymi?
-(a) 
-(b) 
-(c) 
-(d) 
+
+(a) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_1_a.jpg)
+
+(b) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_1_b.jpg)
+
+(c) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_1_c.jpg)
+
+(d) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_1_d.jpg)
 
 ### Zadanie 4.2 
 Znaleźć macierze następujących form dwuliniowych:
-(a) 
-(b)
-(c) 
+
+(a) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_2_a_b.jpg)
+
+(b) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_2_a_b.jpg)
+
 
 ### Zadanie 4.3 
 Metodami poznanymi na wykładzie (tj. z definicji oraz korzystając z macierzy przejścia od bazy do bazy), znaleźć macierz formy dwuliniowej β : R² × R² → R, danej wzorem:
@@ -357,27 +363,63 @@ w bazie B, gdzie:
 (d) 
 
 ### Zadanie 4.4
-(a)
-(b) 
-(c) 
+
+(a) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_4_a_b.jpg)
+
+(b) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_4_a_b.jpg)
+
+(c) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_4_c.jpg)
 
 ### Zadanie 4.5
 ### Zadanie 4.6
 ### Zadanie 4.7
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/5_7.jpg)
 
 ## 5 Iloczyn skalarny, algorytm Grama-Schmidta
 ### Zadanie 5.1
+
+(a) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_1.jpg)
+
+(b) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_1.jpg)
+
+(c) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_1_c.jpg)
+
 ### Zadanie 5.2
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_2.jpg)
+
 ### Zadanie 5.3
+
 ### Zadanie 5.4
+
+(a) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_4_a.jpg)
+
+(b) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_4_b.jpg)
+
 ### Zadanie 5.5
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_5.jpg)
+
 ### Zadanie 5.6
+(a) rozwiązanie: [pt.1](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_6_1.jpg) [pt.2](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_6_2.jpg)
+
 ### Zadanie 5.7
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_7.jpg)
+
 ### Zadanie 5.8
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_8.jpg)
+
 ### Zadanie 5.9
+
+(a) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_9_a.jpg)
+
+(b) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_9_b.jpg)
+
 ### Zadanie 5.10
+(a) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_10_a.jpg)
+
 ### Zadanie 5.11
+
 ### Zadanie 5.12
+[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/6_12.jpg)
 
 ## 6 Formy kwadratowe
 
