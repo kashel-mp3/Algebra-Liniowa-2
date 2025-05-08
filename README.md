@@ -268,26 +268,43 @@ Zbadać, czy macierz $A = \begin{bmatrix} 2 & 4 \\\ 1 & 4 \end{bmatrix} \in M_2(
 ### Zadanie 3.8 (zad. 322, JR). 
 Znaleźć macierz diagonalną $D$ podobną do danej macierzy $A \in M_3(\mathbb{R})$, jeśli taka macierz $D$ istnieje. Znaleźć też wtedy macierz odwracalną $S$ taką, że $D = S^{-1}AS$, gdzie macierz $A$ jest postaci:
 
-(a) $$\begin{bmatrix} 4 & -2 & 1 \\\ 3 & -1 & 1 \\\ 6 & -6 & 4 \end{bmatrix}$$; \ 
-[rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_8_a.jpg)
+(a) [rozwiązanie](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_8_a.jpg)
 
-(b) $\begin{bmatrix} 4 & -4 & 8 \\\ 4 & -4 & 8 \\\ 1 & -1 & 2 \end{bmatrix}$;
-[rozwiązanie pt1](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_8_b.jpg)
+$$\begin{bmatrix} 4 & -2 & 1 \\\ 3 & -1 & 1 \\\ 6 & -6 & 4 \end{bmatrix}$$
+
+(b) [rozwiązanie pt1](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_8_b.jpg)
 [ pt2](https://github.com/kashel-mp3/Algebra-Liniowa-2/blob/main/rozwi%C4%85zania/4_8_b_2.jpg)
 
-(c) $\begin{bmatrix} 1 & -4 & 1 \\\ 0 & -3 & 1 \\\ 0 & -6 & 2 \end{bmatrix}$;
+$$\begin{bmatrix} 4 & -4 & 8 \\\ 4 & -4 & 8 \\\ 1 & -1 & 2 \end{bmatrix}$$
 
-(d) $\begin{bmatrix} -5 & 1 & 4 \\\ -5 & 1 & 4 \\\ -4 & 1 & 3 \end{bmatrix}$;
+(c) 
 
-(e) $\begin{bmatrix} 6 & -4 & 1 \\\ 5 & -3 & 1 \\\ -4 & 4 & 0 \end{bmatrix}$;
+$$\begin{bmatrix} 1 & -4 & 1 \\\ 0 & -3 & 1 \\\ 0 & -6 & 2 \end{bmatrix}$$
 
-(f) $\begin{bmatrix} -7 & 2 & 6 \\\ -4 & 2 & 3 \\\ -8 & 2 & 7 \end{bmatrix}$;
+(d) 
 
-(g) $\begin{bmatrix} 3 & -2 & 1 \\\ 6 & -6 & 4 \\\ 6 & -5 & 3 \end{bmatrix}$;
+$$\begin{bmatrix} -5 & 1 & 4 \\\ -5 & 1 & 4 \\\ -4 & 1 & 3 \end{bmatrix}$$
 
-(h) $\begin{bmatrix} 8 & -7 & 1 \\\ 8 & -7 & 1 \\\ 8 & -8 & 1 \end{bmatrix}$;
+(e) 
 
-(i) $\begin{bmatrix} -11 & 5 & 5 \\\ -12 & 5 & 6 \\\ -12 & 6 & 5 \end{bmatrix}$
+$$\begin{bmatrix} 6 & -4 & 1 \\\ 5 & -3 & 1 \\\ -4 & 4 & 0 \end{bmatrix}$$
+
+(f) 
+
+$$\begin{bmatrix} -7 & 2 & 6 \\\ -4 & 2 & 3 \\\ -8 & 2 & 7 \end{bmatrix}$$
+
+(g) 
+
+$$\begin{bmatrix} 3 & -2 & 1 \\\ 6 & -6 & 4 \\\ 6 & -5 & 3 \end{bmatrix}$$
+
+(h) 
+
+$$\begin{bmatrix} 8 & -7 & 1 \\\ 8 & -7 & 1 \\\ 8 & -8 & 1 \end{bmatrix}$$
+
+(i) 
+
+$$\begin{bmatrix} -11 & 5 & 5 \\\ -12 & 5 & 6 \\\ -12 & 6 & 5 \end{bmatrix}$$
+
 
 ### Zadanie 3.9. 
 Niech $n \in \mathbb{N}$. Obliczyć:
@@ -315,3 +332,71 @@ Sprawdzić, czy $W$ jest $T$-niezmienniczą podprzestrzenią w $V$:
 ### Zadanie 3.12. 
 Znaleźć wszystkie jednowymiarowe podprzestrzenie $T$-niezmiennicze w $\mathbb{R}^3$ dla operatora:
 $T(x, y, z) = (x - 4y + z, -4x + y + z, 4x + 4y + 4z)$.
+
+## 4 Formy dwuliniowe, radykał lewostronny i prawostronny
+
+### Zadanie 4.1 
+Które z następujących przekształceń są formami dwuliniowymi?
+(a) 
+(b) 
+(c) 
+(d) 
+
+### Zadanie 4.2 
+Znaleźć macierze następujących form dwuliniowych:
+(a) 
+(b)
+(c) 
+
+### Zadanie 4.3 
+Metodami poznanymi na wykładzie (tj. z definicji oraz korzystając z macierzy przejścia od bazy do bazy), znaleźć macierz formy dwuliniowej β : R² × R² → R, danej wzorem:
+w bazie B, gdzie:
+(a)
+(b) 
+(c) 
+(d) 
+
+### Zadanie 4.4
+(a)
+(b) 
+(c) 
+
+### Zadanie 4.5
+### Zadanie 4.6
+### Zadanie 4.7
+
+## 5 Iloczyn skalarny, algorytm Grama-Schmidta
+### Zadanie 5.1
+### Zadanie 5.2
+### Zadanie 5.3
+### Zadanie 5.4
+### Zadanie 5.5
+### Zadanie 5.6
+### Zadanie 5.7
+### Zadanie 5.8
+### Zadanie 5.9
+### Zadanie 5.10
+### Zadanie 5.11
+### Zadanie 5.12
+
+## 6 Formy kwadratowe
+
+### Zadanie 6.1
+
+### Zadanie 6.2
+
+### Zadanie 6.3
+
+### Zadanie 6.4
+
+### Zadanie 6.5
+
+### Zadanie 6.6
+
+## 7 Postać kanoniczna Jordana
+
+### Zadanie 7.1
+
+### Zadanie 7.2
+
+### Zadanie 7.3
